@@ -1,0 +1,6 @@
+{
+  "shell": "cmd",
+  "test": "!wwwznepath!\\test.cmd",
+  "runner": "!wwwznepath!\\runner.cmd !wwwznedir!",
+  "server": "!wwwznepath!\\server.cmd !wwwznedir!"
+}
