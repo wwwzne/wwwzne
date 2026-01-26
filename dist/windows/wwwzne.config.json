@@ -1,5 +1,0 @@
-{
-  "shell": "default",
-  "hello": "echo wwwzne",
-  "test": "%wwwznepath%//test.cmd"
-}
