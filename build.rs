@@ -12,6 +12,7 @@ fn main() -> std::io::Result<()> {
     fs::copy("shell/runner.cmd", target_dir.join("runner.cmd"))?;
     fs::copy("shell/server.cmd", target_dir.join("server.cmd"))?;
     fs::copy("shell/test.cmd", target_dir.join("test.cmd"))?;
+    fs::copy("shell/r.cmd", target_dir.join("r.cmd"))?;
     fs::copy("shell/wwwzne.config.json", target_dir.join("wwwzne.config.json"))?;
 
     let mut res = winres::WindowsResource::new();

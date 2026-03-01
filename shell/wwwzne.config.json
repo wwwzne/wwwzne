@@ -1,5 +1,6 @@
 {
   "test": ["基础测试环境","!wwwznepath!\\test.cmd"],
-  "runner": ["代码运行","!wwwznepath!\\runner.cmd !wwwznedir!"],
+  "runner": ["运行代码","!wwwznepath!\\runner.cmd !wwwznedir!"],
+  "r": ["终端运行代码","!wwwznepath!\\r.cmd !wwwznedir!"],
   "server": ["服务器运行","!wwwznepath!\\server.cmd !wwwznedir!"]
 }

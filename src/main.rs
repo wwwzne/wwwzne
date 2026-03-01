@@ -203,13 +203,13 @@ fn main() -> Result<()> {
                         .arg("/C")
                         .arg(&script)
                         .status()?;
-                    println!("{}", status.to_string().on_bright_yellow().black());
+                    print!("{}", status.to_string().on_bright_yellow().black());
                 }
                 //linux平台特有
                 #[cfg(target_os = "linux")]
                 {
                     let status = ProcCommand::new("sh").arg("-c").arg(&script).status()?;
-                    println!("{}", status);
+                    print!("{}", status);
                 }
             }
             Ok(())
