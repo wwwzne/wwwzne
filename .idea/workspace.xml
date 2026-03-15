@@ -11,14 +11,7 @@
     </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="647b6ff6-1eba-4a00-8360-3cb1a5e6a653" name="更改" comment="w">
-      <change afterPath="$PROJECT_DIR$/shell/r.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.rs" beforeDir="false" afterPath="$PROJECT_DIR$/build.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell/wwwzne.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/shell/wwwzne.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-    </list>
+    <list default="true" id="647b6ff6-1eba-4a00-8360-3cb1a5e6a653" name="更改" comment="w" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,6 +122,7 @@
       <workItem from="1769500907263" duration="2734000" />
       <workItem from="1769765534697" duration="2000" />
       <workItem from="1770906487245" duration="4056000" />
+      <workItem from="1772699007545" duration="505000" />
     </task>
     <task id="LOCAL-00001" summary="w">
       <option name="closed" value="true" />
